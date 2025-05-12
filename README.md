@@ -14,7 +14,7 @@
 <ol><li>Download the Unity package.
 </li><li>Right click in your Project View.
 </li><li>Click "Import Package" &gt; "Custom Package".
-</li><li>Double click the Unity Package in it's downloaded folder.</li></ol>
+</li><li>Double click the Unity Package in its downloaded folder.</li></ol>
 <h2>Why create it?</h2>
 <p>This was a follow up project after making <a href="https://iamagamedev.itch.io/customunityhierarchy">CustomUnityHierarchy</a>, I wanted to make the Unity Game Engine more customised so I made this. It also taught me new editor methods and has been a fun educational project/package in which I&nbsp;can use it in all my future Unity projects.&nbsp;</p>
 <h2>Learning outcomes:</h2>
