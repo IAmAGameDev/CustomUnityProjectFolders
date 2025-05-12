@@ -243,7 +243,7 @@ namespace CustomUnityProjectFolders
                 folderToCustomise.bindingPath = folderItemProperty.FindPropertyRelative("folderToCustomise").propertyPath;
                 folderToCustomise.RegisterValueChangedCallback(e =>
                 {
-                    // Check to wether I should redraw the foldout header based on if the value was updated.
+                    // Check to whether I should redraw the foldout header based on if the value was updated.
                     if (e.newValue != e.previousValue)
                     {
                         foldoutRightHeaderData.Clear();
@@ -326,7 +326,7 @@ namespace CustomUnityProjectFolders
                     }
                 });
 
-                // Button to delete this specific element form the list.
+                // Button to delete this specific element from the list.
                 Button deleteElementInList = tempVisualElementItem.Q<Button>("DeleteElementInList");
                 // Bug fix for accepting any type of click when I only want left clicks.
                 deleteElementInList.clickable.activators.Clear();
@@ -352,7 +352,7 @@ namespace CustomUnityProjectFolders
         /// <summary>
         /// Draws the folder icons or a error in the header.
         /// </summary>
-        /// <param name="folderItemData"></param> FolderCache for 
+        /// <param name="folderItemData"></param> FolderCache being drawn
         /// <param name="foldoutHeader"></param>
         private void DrawFolderIconsInHeader(CustomUnityProjectFoldersData.FolderCache folderItemData, VisualElement foldoutHeader)
         {
