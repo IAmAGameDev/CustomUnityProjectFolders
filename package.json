@@ -1,0 +1,16 @@
+{
+  "name": "iamagamedev.custom-unity-project-folders",
+  "version": "1.0.0",
+  "displayName": "Custom Unity Project Folders",
+  "description": "This is a importable custom Unity package, that allows setting custom project folder icons.",
+  "unity": "2022.3",
+  "keywords": [
+    "Custom",
+    "Unity",
+    "Project",
+    "Folders"
+  ],
+  "author": {
+    "name": "IAmAGameDev"
+  }
+}

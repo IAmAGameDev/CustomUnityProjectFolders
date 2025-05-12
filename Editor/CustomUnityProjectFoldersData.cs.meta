@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 64f1828eb62a41140962e7eeb42c5612
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - newFolderIcon: {fileID: 2800000, guid: 733dade9673949f4fa34c23cdd1e85fb, type: 3}
+  - newEmptyFolderIcon: {fileID: 2800000, guid: c9dc331f560d16b419388992dd72f857, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

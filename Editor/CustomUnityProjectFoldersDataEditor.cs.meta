@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: b165e4d617da57f4191960dfc05adda9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - customUnityProjectFoldersDataVisualTree: {fileID: 9197481963319205126, guid: c25ae21c7b535de4cbd9da8ce2f1528d, type: 3}
+  - customUnityProjectFoldersDataItemVisualTree: {fileID: 9197481963319205126, guid: 7b08722b549f0f24494a62591223fc60, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
