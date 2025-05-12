@@ -1,5 +1,5 @@
 <h1>CustomUnityProjectFolders</h1>
-<image src="https://github.com/user-attachments/assets/d5e00b71-3ab5-48b5-9787-382f9d37b5ed">;
+<image src="https://github.com/user-attachments/assets/d5e00b71-3ab5-48b5-9787-382f9d37b5ed">
 <h2>What's the project?</h2>
 <p>This is a importable custom Unity package (written in c#), that changes the look of the Unity project folders tab. This works by setting a folder and drawing over the top of it with a sprite of your choice, then you can enable header settings along with if it is recursive (applies to children).&nbsp;&nbsp;</p>
 <h2>Installation guide:</h2>
