@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+**Third-Party Notices**
+
+This project includes third-party assets and code, as detailed below.
+
+- **Adapted Code** This project includes code from Federico Bellucci - febucci.com (https://github.com/febucci/unitypackage-custom-hierarchy),
+used under a modified MIT license which prohibits commercial resale.
+See comments in the source code for full license.
